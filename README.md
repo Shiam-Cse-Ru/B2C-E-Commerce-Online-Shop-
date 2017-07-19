@@ -1,4 +1,4 @@
-# B2C-E-Commerce (Online-Shopping cart)
+# B2C-E-Commerce (Online-Shopping Cart)
 <pre>A shopping cart for an E-commerce site having following criteria.</pre>
 •	System should have product table containing product code, product name, description, no. of available product in stock, price and photo.<br>
 •	Visitor can see the product list with product picture and can add/remove products to/from his shopping cart.<br>
